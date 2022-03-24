@@ -28,7 +28,7 @@ namespace mvc_andela_workshop_1.Controllers
             return View();
         }
 
-        public IActionResult AnotherOne()
+        public IActionResult Something()
         {
             return View();
         }
